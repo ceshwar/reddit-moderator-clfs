@@ -1,0 +1,4 @@
+> Obtain the pretrained models from Google Drive: <Insert link>
+> Decompress the file to obtain the .bin and .vec for the in-domain models trained purely on 5 subs listed in study-subreddits.csv
+> Use the get-expert-predictions.py to obtain labels/predictions from the pretrained models for unseen test comments present in test-comments.csv
+
